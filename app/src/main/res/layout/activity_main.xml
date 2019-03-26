@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.running.moonlight.lrecyclerview.LRecyclerView
+        android:id="@+id/lrv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:loadMoreEnable="true"
+        app:loadMoreFooterLayout="@layout/view_rv_footer"
+        app:refreshEnable="true"
+        app:refreshHeaderLayout="@layout/view_rv_header"
+        />
+
+</LinearLayout>

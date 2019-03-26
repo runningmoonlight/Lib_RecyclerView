@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="classic_refresh_header_height">80dp</dimen>
+	<dimen name="classic_refresh_header_margin">48dp</dimen>
+	<dimen name="classic_load_footer_height">40dp</dimen>
+	<dimen name="classic_load_footer_margin">48dp</dimen>
+</resources>

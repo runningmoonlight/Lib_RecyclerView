@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<declare-styleable name="LRecyclerView">
+		<attr name="refreshHeaderLayout" format="reference"/>
+		<attr name="loadMoreFooterLayout" format="reference"/>
+		<attr name="refreshEnable" format="boolean"/>
+		<attr name="loadMoreEnable" format="boolean"/>
+		<attr name="refreshFinalMoveOffset" format="dimension"/>
+	</declare-styleable>
+
+	<declare-styleable name="IndexBar">
+		<attr name="indexBarTextSize" format="dimension"/>
+		<attr name="indexBarPressBackground" format="color"/>
+		<attr name="indexBarTextColor" format="color"/>
+		<attr name="indexBarNeedRealIndex" format="boolean"/>
+	</declare-styleable>
+</resources>

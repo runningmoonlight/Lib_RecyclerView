@@ -1,0 +1,16 @@
+<resources>
+	<string name="app_name">Lib_RecyclerView</string>
+
+	<string name="rv_header_refresh_normal">下拉刷新</string>
+	<string name="rv_header_refresh_release">释放立即刷新</string>
+	<string name="rv_header_refreshing">正在刷新...</string>
+	<string name="rv_header_refresh_done">刷新完成</string>
+	<string name="rv_header_refresh_error">刷新出错</string>
+
+	<string name="rv_footer_normal">上拉查看更多</string>
+	<string name="rv_footer_loading">正在加载...</string>
+	<string name="rv_footer_no_more">没有了</string>
+	<string name="rv_footer_loading_done">加载完成</string>
+	<string name="rv_footer_load_error">加载出错</string>
+
+</resources>

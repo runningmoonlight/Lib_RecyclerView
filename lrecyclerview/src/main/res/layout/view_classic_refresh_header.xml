@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="@dimen/classic_refresh_header_height">
+
+	<TextView
+		android:id="@+id/tv_refresh"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_centerInParent="true" />
+
+	<ImageView
+		android:id="@+id/iv_arrow"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_centerVertical="true"
+		android:layout_marginRight="@dimen/classic_refresh_header_margin"
+		android:layout_marginEnd="@dimen/classic_refresh_header_margin"
+		android:layout_toLeftOf="@+id/tv_refresh"
+		android:layout_toStartOf="@+id/tv_refresh"
+		android:src="@drawable/ic_refresh_arrow" />
+
+	<ProgressBar
+		android:id="@+id/pb_refresh"
+		style="?android:attr/progressBarStyleSmallInverse"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_centerVertical="true"
+		android:layout_marginRight="@dimen/classic_refresh_header_margin"
+		android:layout_marginEnd="@dimen/classic_refresh_header_margin"
+		android:layout_toLeftOf="@+id/tv_refresh"
+		android:layout_toStartOf="@+id/tv_refresh"/>
+</merge>
