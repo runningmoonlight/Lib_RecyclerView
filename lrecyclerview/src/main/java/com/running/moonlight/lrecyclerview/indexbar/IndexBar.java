@@ -23,8 +23,8 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * Created by liuhengd on 2018/10/29.
- * 列表页的右侧索引栏，配合{@link LRecyclerView}使用
+ * Created by liuheng on 2018/10/29.
+ * 列表页的右侧索引栏，配合{@link com.running.moonlight.lrecyclerview.LRecyclerView}使用
  */
 public class IndexBar extends View {
 

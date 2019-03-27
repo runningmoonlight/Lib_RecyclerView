@@ -10,7 +10,7 @@ import com.running.moonlight.lrecyclerview.R;
 
 
 /**
- * Created by liuhengd on 2018/7/27.
+ * Created by liuheng on 2018/7/27.
  * 加载更多的footer示例
  */
 public class ClassicLoadFooterView extends RelativeLayout implements ILoadMoreTrigger {

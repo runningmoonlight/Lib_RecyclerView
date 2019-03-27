@@ -1,7 +1,7 @@
 package com.running.moonlight.lrecyclerview.header;
 
 /**
- * Created by liuhengd on 2018/7/26.
+ * Created by liuheng on 2018/7/26.
  * 自定义刷新view需要实现这个接口
  * LRecyclerView将状态传递到刷新view，刷新view调整UI显示
  */

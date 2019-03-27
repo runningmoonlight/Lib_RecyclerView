@@ -9,7 +9,7 @@ import java.util.Comparator;
 import java.util.List;
 
 /**
- * Created by liuhengd on 2018/10/29.
+ * Created by liuheng on 2018/10/29.
  *
  * IndexBar的数据相关帮助类
  */

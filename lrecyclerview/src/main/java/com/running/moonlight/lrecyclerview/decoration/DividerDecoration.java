@@ -13,7 +13,7 @@ import com.running.moonlight.lrecyclerview.header.HeaderFrameLayout;
 
 
 /**
- * Created by liuhengd on 2018/8/3.
+ * Created by liuheng on 2018/8/3.
  * {@link LinearLayoutManager}的分隔线
  */
 public class DividerDecoration extends RecyclerView.ItemDecoration {

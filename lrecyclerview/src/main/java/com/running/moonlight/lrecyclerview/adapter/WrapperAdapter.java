@@ -7,7 +7,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 /**
- * Created by liuhengd on 2018/7/31.
+ * Created by liuheng on 2018/7/31.
  * 下拉刷新和上拉加载的包装Adapter
  * 通过对Adapter包装，增加下拉刷新view、headerView、footerView和加载更多View
  * 为简化处理itemView的类型和数量，四个view固定存在，但headerView和footerView只能有一个，扩展性一般

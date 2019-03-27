@@ -6,7 +6,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 /**
- * Created by liuhengd on 2018/7/30.
+ * Created by liuheng on 2018/7/30.
  * 刷新headerView的ViewGroup，自定义了onMeasure()和onLayout()方法
  * 控制刷新view显示在下边缘
  */

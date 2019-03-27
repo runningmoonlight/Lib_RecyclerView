@@ -1,7 +1,7 @@
 package com.running.moonlight.lrecyclerview.indexbar;
 
 /**
- * Created by liuhengd on 2018/10/29.
+ * Created by liuheng on 2018/10/29.
  * 索引数据的标记的基类
  */
 public abstract class BaseIndexBean {

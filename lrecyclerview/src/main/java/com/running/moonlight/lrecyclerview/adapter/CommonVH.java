@@ -10,7 +10,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 /**
- * Created by liuhengd on 2018/12/14.
+ * Created by liuheng on 2018/12/14.
  */
 public class CommonVH extends RecyclerView.ViewHolder {
 

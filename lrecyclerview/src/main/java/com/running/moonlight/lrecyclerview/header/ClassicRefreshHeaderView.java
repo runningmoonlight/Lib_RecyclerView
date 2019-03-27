@@ -13,7 +13,7 @@ import com.running.moonlight.lrecyclerview.R;
 
 
 /**
- * Created by liuhengd on 2018/7/26.
+ * Created by liuheng on 2018/7/26.
  * 自定义下拉刷新view的示例
  */
 public class ClassicRefreshHeaderView extends RelativeLayout implements IRefreshTrigger {

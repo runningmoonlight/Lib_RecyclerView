@@ -12,7 +12,7 @@ import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 
 /**
- * Created by liuhengd on 2018/8/2.
+ * Created by liuheng on 2018/8/2.
  * RecyclerView状态的包装Adapter
  * 四种状态：Normal、Loading、Empty、Error
  *

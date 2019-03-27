@@ -11,7 +11,7 @@ import android.view.ViewGroup;
 import java.util.List;
 
 /**
- * Created by liuhengd on 2018/7/19.
+ * Created by liuheng on 2018/7/19.
  * RecyclerView的通用Adapter，抽象实现，可免去创建单独的Adapter类
  * 可设置ItemView中view的文字、图片、可见性、单击和长按事件
  *

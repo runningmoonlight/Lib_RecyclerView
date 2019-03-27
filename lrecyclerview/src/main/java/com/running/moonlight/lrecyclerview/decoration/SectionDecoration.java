@@ -10,7 +10,7 @@ import android.text.TextUtils;
 import android.view.View;
 
 /**
- * Created by liuhengd on 2018/8/3.
+ * Created by liuheng on 2018/8/3.
  * 吸顶效果
  */
 public class SectionDecoration extends RecyclerView.ItemDecoration {

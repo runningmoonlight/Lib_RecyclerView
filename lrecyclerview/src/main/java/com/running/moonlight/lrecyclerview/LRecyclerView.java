@@ -25,7 +25,7 @@ import com.running.moonlight.lrecyclerview.header.RefreshHeaderLayout;
 
 
 /**
- * Created by liuhengd on 2018/7/25.
+ * Created by liuheng on 2018/7/25.
  * 在RecyclerView中封装了刷新View、header、footer、加载更多view，实现下拉刷新和上拉加载更多功能
  * 刷新view和加载更多view可以写在布局中，也可以代码设置
  * 当代码中控制开始刷新和下拉松手刷新时，刷新操作和动画同步进行
